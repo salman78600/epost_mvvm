@@ -1,16 +1,27 @@
-# practice
+# epost_mvvm
 
-A new Flutter project.
+A simple Flutter project demonstrating the MVVM (Model-View-ViewModel) architecture.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+This project serves as a basic Flutter application that fetches sample posts from a test API, structured using the MVVM design pattern for clean separation of concerns and better scalability.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Follow the steps below to set up and run the project on your local machine.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1 - Clone the repository:
+
+git clone https://github.com/salman78600/epost_mvvm.git
+
+cd epost_mvvm
+
+### 2 - Install dependencies:
+
+flutter pub get
+
+### 3 - Run the app:
+
+flutter run
+
+
